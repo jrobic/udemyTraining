@@ -1,4 +1,4 @@
 # Training for Golang (Udemy)
-Coming from the AWESOME course on Udemy [Learn How To Code: Google's Go (golang) Programming...](https://www.udemy.com/learn-how-to-code/learn/v4/)
+Coming from the AWESOME course on Udemy [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/learn-how-to-code/learn/v4/)
 
 ## What I've learn with this project ?
