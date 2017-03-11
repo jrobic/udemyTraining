@@ -6,3 +6,4 @@ Coming from the AWESOME course on Udemy [Learn How To Code: Google's Go (golang)
 - run first hello world
 - numeral systems w/ format verbs %d %b %#x
 - package structure
+- variable declarations
